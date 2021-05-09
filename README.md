@@ -10,7 +10,7 @@ dssds
 ## Purpose
 
 StausSample website with plenty of files for demos
-
+Please fork this repositort and then pull request
 
 ## Deployment
 
